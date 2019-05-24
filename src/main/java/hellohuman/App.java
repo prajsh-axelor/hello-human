@@ -1,4 +1,4 @@
-package hello-human;
+package hellohuman;
 
 public class App {
     public String getGreeting() {
