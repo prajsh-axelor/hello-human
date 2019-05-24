@@ -16,4 +16,4 @@ task myJavadocs (type:Javadoc) {
 	source = sourceSets.main.allJava
 }
 
-mainClassName = 'hello-human.App'
+mainClassName = 'hellohuman.App'
