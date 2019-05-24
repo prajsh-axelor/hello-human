@@ -1,4 +1,4 @@
-package demo;
+package hello-human;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
